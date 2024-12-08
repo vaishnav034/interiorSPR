@@ -1,0 +1,144 @@
+.Headerspace {
+    width: 100vw;
+    background-color: #d8eced;
+    height: 80px;
+
+}
+.logo {
+  margin-left: 10px;
+  font-size: 50px;
+  color: #5d5461;
+}
+.navbar-detailing {
+    font-size: 30px;
+    padding-top: 20px;
+    float: right;
+
+}
+.points {
+    padding-left: 20px;
+}
+.container_mainposter {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://www.w3schools.com/w3images/architect.jpg");
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    padding-left: 20px;
+    font-size: 40px;
+    
+    
+
+}
+.maintext{
+    background-color: black;
+    opacity: 0.6;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    padding: 20px;
+    }
+.name-project {
+    margin: 20px;
+    margin-top: 40px;
+}
+
+.mainContainer {
+   padding-bottom: 20px;
+   margin: 20px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+}
+.imagecontainers {
+    background-image: url("https://res.cloudinary.com/saivyshnavthanuku/image/upload/v1733636160/house2_tnlcjl.jpg");
+    height: 300px;
+    width: 320px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.imagecontainers1 {
+    background-image: url("https://res.cloudinary.com/saivyshnavthanuku/image/upload/v1733636160/house5_rafpum.jpg");
+    height: 300px;
+    width: 320px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.imagecontainers2 {
+    background-image: url("https://res.cloudinary.com/saivyshnavthanuku/image/upload/v1733636160/house4_nbtsej.jpg");
+    height: 300px;
+    width: 320px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.imagecontainers3 {
+    background-image: url("https://res.cloudinary.com/saivyshnavthanuku/image/upload/v1733636160/house3_dbezfs.jpg");
+    height: 300px;
+    width: 320px;
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+.text-in-image {
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: black;
+}
+
+.para {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-container {
+    display: flex;
+}
+
+.card {
+    padding: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 20px;
+    
+}
+.button {
+    width: 100%;
+    height: 30px;
+}
+.formcontent {
+    width: 100vw;
+    height: 30px;
+    margin: 20px;
+}
+.button2 {
+    background-color: black;
+    padding: 15px;
+    color: white;
+    border-width: 0px;
+    width: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.footer {
+    background-color: black;
+    width: 100vw;
+    color: white;
+    padding: 8px;
+    text-align: center;
+
+}
